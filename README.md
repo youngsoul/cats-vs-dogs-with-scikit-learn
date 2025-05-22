@@ -24,9 +24,9 @@ After walking through the resources, I decided to try it on the `Cats vs Dogs` (
 
 To my surprise, scikit-learn with the embetter image embeddings did surprisingly well.
 
-Using a naive LogisticRegression classifier, the model had an average cross validation accuracy score of `0.99515612489992`.
+Using a naive LogisticRegression classifier, the model had an average cross validation accuracy score of `0.9956338874424192`.
 
-Testing this on a holdout dataset of 10 cat images and 10 dog images, it was able to classify all of the holdouts correctly.
+Testing this on a holdout dataset of 20 cat images and 20 dog images, it was able to classify all of the holdouts correctly.
 
 ### CLIP ( Contrastive Language–Image Pretraining ) Background Information
 
